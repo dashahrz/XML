@@ -1,1 +1,11 @@
-
+<bug_report>
+<Reporter>Name</Reporter>
+<Assignee>Name</Assignee>
+<Severity>Blocker,Critical,Major,Minor,Trivial</Severity>
+<Priority>High,Medium,Low</Priority>
+<Environment>Brovser,OC version</Environment>
+<Description>what_where_how</Description>
+<Steps_to_reproduce>1,2,...</Steps_to_reproduce>
+<Actual_result>Real</Actual_result>
+<Expected_result>According to the documentation</Expected_result>
+</bug_report>
